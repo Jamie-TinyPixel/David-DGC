@@ -3,7 +3,7 @@
 ## My Current Projects:
 ### - Flappy Disk
  A Flappy Bird-esque android game.
- Also my first game.
+ Also my first (finished) mobile game.
 ### - Going Home
  My current project!
  A simple 2D platformer with a developing story.
