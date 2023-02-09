@@ -1,3 +1,4 @@
+[DGC Pride Logo](https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512.png)
 # Hey! I'm David!
 ### I’m interested in C# and Unity Game Development
 ## My Current Projects:
