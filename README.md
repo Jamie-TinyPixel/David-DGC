@@ -1,9 +1,7 @@
-<br />
-<div align="center">
-  <a href="https://github.com/david-dgc/david-dgc">
-    <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" alt="Logo" width="80" height="80">
-  </a>
- </br>
+<p align="center">
+  <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" width="300" height="300" />
+</p>
+
 # Hey! I'm David!
 ### I’m interested in C# and Unity Game Development
 ## My Current Projects:
