@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" width="300" height="300" />
+  <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" width="200" height="200" />
 </p>
 
 # Hey! I'm David!
