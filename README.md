@@ -20,7 +20,7 @@
 ### You can reach me on discord, **@Pankake#1769**, or through **[my website's Contact Us Page](https://davidgameco.com/contact-us)**
 
 ## My Archive
-### All games in the Archive are available [here](https://davidgameco.com/archive)
+### All games in the Archive are available [here](https://davidgameco.com/archives)
 ### - A Troublesome Tale *(Scrapped)*
 This was my first project!
 ATT was a short FPS based on a Unity Tutorial
@@ -34,7 +34,3 @@ It's.. quite mediocre.
 
 ## Wanna help me?
  ### Here's my [Ko-fi page](https://ko-fi.com/dgc)!
-<!---
-DaveeeP/DaveeeP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
