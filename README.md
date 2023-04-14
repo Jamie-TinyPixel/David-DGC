@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://u8views.com/github/David-DGC"><img src="https://u8views.com/api/v1/github/profiles/77833819/views/day-week-month-total-count.svg"></a>> </p>
+<p align="center"> <a href="https://u8views.com/github/David-DGC"><img src="https://u8views.com/api/v1/github/profiles/77833819/views/day-week-month-total-count.svg"></a> </p>
 
 <p align="center">
   <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" width="200" height="200" />
