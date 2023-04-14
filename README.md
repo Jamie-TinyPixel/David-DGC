@@ -1,12 +1,12 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=David-DGC&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </p>
+
 <p align="center">
   <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" width="200" height="200" />
 </p>
 <h1 align="center">Hey! I'm David!</h1>
 <h3 align="center">Aspiring Game Developer | Comp-Sci student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=David-DGC&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3> <p align="center">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
