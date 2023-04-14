@@ -13,11 +13,11 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vsc" width="40" height="40"/> </a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-DGC&show_icons=true&locale=en&layout=compact" alt="David-DGC" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-DGC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="David-DGC" />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=David-DGC&show_icons=true&locale=en" alt="David-DGC" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=David-DGC&show_icons=true&locale=en&theme=tokyonight" alt="David-DGC" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=David-DGC" alt="David-DGC" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=David-DGC&theme=tokyonight" alt="David-DGC" /></p>
 
 ## My Current Projects:
 ### - Flappy Disk
