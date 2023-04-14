@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=David-DGC&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </p>
+<p align="right "> <a href="https://u8views.com/github/David-DGC"><img src="https://u8views.com/api/v1/github/profiles/77833819/views/total-count.svg"></a> </p>
 
 <p align="center">
   <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" width="200" height="200" />
