@@ -5,12 +5,18 @@
 </p>
 <h1 align="center">Hey! I'm David!</h1>
 <h3 align="center">Aspiring Game Developer | Comp-Sci student.</h3>
+<p align="center">
+  <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="40" height="30" />
+  <img src="https://flagicons.lipis.dev/flags/4x3/it.svg" width="40" height="30" />
+  <img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" width="40" height="30" />
+  <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="40" height="30" />
+</p>
 
 <h3 align="center">Languages and Tools:</h3> <p align="center">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://unity.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vsc" width="40" height="40"/> </a> </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-DGC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="David-DGC" />
