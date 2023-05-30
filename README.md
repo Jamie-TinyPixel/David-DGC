@@ -26,9 +26,12 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=David-DGC&theme=tokyonight" alt="David-DGC" /></p>
 
 ## My Current Projects:
-### - Flappy Disk
+### - Flappy Disk - **_Being Rebuilt!_**
  A Flappy Bird-esque android game.
  Also my first (finished) mobile game.
+ 
+ Flappy Disk is currently in the exciting process of being
+ rebuilt! More to come [on my devlog!](https://davidgameco.com/devlog)
 ### - Fragmented
  A side project that turned into a main project through the power of hyperfixation!
  A short 3D game available on my [Ko-fi page](https://ko-fi.com/dgc).
