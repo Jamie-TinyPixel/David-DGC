@@ -3,13 +3,12 @@
 <p align="center">
   <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" width="200" height="200" />
 </p>
-<h1 align="center">Hey! I'm David!</h1>
-<h3 align="center">Aspiring Game Developer | Comp-Sci student</h3>
 <p align="center">
   <img src="https://flagicons.lipis.dev/flags/4x3/it.svg" width="40" height="30" />
   <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="40" height="30" />
   <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="40" height="30" />
   <img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" width="40" height="30" />
+  <h1 align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=ADBAC7&center=true&vCenter=true&width=870&height=40&lines=Hey!;I'm+David!;An+aspiring+game+dev;and+a+Comp-Sci+student" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3> <p align="center">
@@ -21,9 +20,9 @@
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-DGC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="David-DGC" /> -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=David-DGC&show_icons=true&locale=en&theme=tokyonight" alt="David-DGC" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=David-DGC&show_icons=true&locale=en&theme=ambient-gradient" alt="David-DGC" /></p> -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=David-DGC&theme=tokyonight" alt="David-DGC" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=David-DGC&theme=ambient-gradient" alt="David-DGC" /></p>
 
 ## My Current Projects:
 ### - Flappy Disk - **_Being Rebuilt!_**
