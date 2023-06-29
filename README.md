@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://davidgameco.com/wp-content/uploads/2022/06/LogoPride512outlined.png" width="200" height="200" />
-</p>
-<p align="center">
+  <br>
   <img src="https://flagicons.lipis.dev/flags/4x3/it.svg" width="40" height="30" />
   <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="40" height="30" />
   <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="40" height="30" />
