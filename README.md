@@ -41,7 +41,6 @@
 ### - Going Home
  A scrapped project..
  It would've been simple 2D platformer with a developing story!
-### You can reach me on discord, **@Pankake#1769**, or through **[my website's Contact Us Page](https://davidgameco.com/contact-us)**
 
 ## My Archive
 ### All games in the Archive are available [here](https://davidgameco.com/archives)
@@ -55,6 +54,7 @@ Just play it, it's short.
 The Explorer was a platformer based on a Unity Tutorial.
 It's.. quite mediocre.
 
+### You can through **[my website's Contact Us Page](https://davidgameco.com/contact-us)**, or just emailling me at [hello@davidgameco.com](mailto:hello@davidgameco.com)
 
 ## Wanna help me?
  ### Here's my [Ko-fi page](https://ko-fi.com/dgc)!
