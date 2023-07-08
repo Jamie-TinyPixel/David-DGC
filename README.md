@@ -15,7 +15,9 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-gb/dotnet/csharp/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vsc" width="40" height="40"/> </a> </p>
+
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-DGC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="David-DGC" /> -->
 
