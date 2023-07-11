@@ -14,7 +14,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://unity.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/unity3d/images/562cc0fa-a6c4-45a3-8412-ef8bce616751.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://learn.microsoft.com/en-gb/dotnet/csharp/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vsc" width="40" height="40"/> </a> </p>
 
@@ -23,16 +23,16 @@
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=David-DGC&show_icons=true&locale=en&theme=ambient-gradient" alt="David-DGC" /></p> -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=David-DGC&theme=ambient-gradient" alt="David-DGC" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=David-DGC&theme=tokyonight-duo" alt="David-DGC" /></p>
 
 ## My Current Projects:
-### - Flappy Disk - **_Being Rebuilt!_**
+### - [Flappy Disk](https://davidgameco.com#flappydisk) - **_Being Rebuilt!_**
  A Flappy Bird-esque android game.
  Also my first (finished) mobile game.
  
  Flappy Disk is currently in the exciting process of being
  rebuilt! More to come [on my devlog!](https://davidgameco.com/devlog)
-### - Fragmented
+### - [Fragmented](https://ko-fi.com/dgc)
  A side project that turned into a main project through the power of hyperfixation!
  A short 3D game available on my [Ko-fi page](https://ko-fi.com/dgc).
 ### - Amplitude
@@ -54,7 +54,7 @@ Just play it, it's short.
 The Explorer was a platformer based on a Unity Tutorial.
 It's.. quite mediocre.
 
-### You can through **[my website's Contact Us Page](https://davidgameco.com/contact-us)**, or just emailling me at [hello@davidgameco.com](mailto:hello@davidgameco.com)
+### You can contact me through **[my website's Contact Us Page](https://davidgameco.com/contact-us)**, or just emailling me at [hello@davidgameco.com](mailto:hello@davidgameco.com)
 
 ## Wanna help me?
  ### Here's my [Ko-fi page](https://ko-fi.com/dgc)!
