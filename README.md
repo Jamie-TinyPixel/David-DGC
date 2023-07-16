@@ -25,7 +25,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=David-DGC&theme=tokyonight-duo" alt="David-DGC" /></p>
 
-## My Current Projects:
+## Latest Projects:
 ### - [Flappy Disk](https://davidgameco.com#flappydisk) - **_Being Rebuilt!_**
  A Flappy Bird-esque android game.
  Also my first (finished) mobile game.
@@ -36,7 +36,7 @@
  A side project that turned into a main project through the power of hyperfixation!
  A short 3D game available on my [Ko-fi page](https://ko-fi.com/dgc).
 ### - Amplitude
-  My current project!
+  A project put on hiatus for a while due to a number of reasons
   Amplitude will be a 2D multiplayer card game about science-_y_ stuff!
 ### - Going Home
  A scrapped project..
