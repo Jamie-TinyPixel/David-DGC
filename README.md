@@ -36,7 +36,8 @@
  A side project that turned into a main project through the power of hyperfixation!
  A short 3D game available on my [Ko-fi page](https://ko-fi.com/dgc).
 ### - Amplitude
-  A project put on hiatus for a while due to a number of reasons
+  A project put on hiatus for a while due to a number of reasons.
+
   Amplitude will be a 2D multiplayer card game about science-_y_ stuff!
 ### - Going Home
  A scrapped project..
