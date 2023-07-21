@@ -31,7 +31,7 @@
  Also my first (finished) mobile game.
  
  Flappy Disk is currently in the exciting process of being
- rebuilt! More to come [on my devlog!](https://davidgameco.com/devlog)
+ rebuilt! More to come on my devlog!
 ### - [Fragmented](https://ko-fi.com/dgc)
  A side project that turned into a main project through the power of hyperfixation!
  A short 3D game available on my [Ko-fi page](https://ko-fi.com/dgc).
